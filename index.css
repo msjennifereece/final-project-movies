@@ -114,6 +114,10 @@ SEARCH
   position: relative;
 }
 
+#dropdown {
+  
+}
+
 .search__button {
   position: absolute;
   right: 8px;
